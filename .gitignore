@@ -1,0 +1,44 @@
+# 🔹 Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 🔹 Virtual Environment
+.venv/
+venv/
+env/
+
+# 🔹 Environment variables (VERY IMPORTANT)
+.env
+
+# 🔹 OS files
+.DS_Store
+Thumbs.db
+
+# 🔹 Logs
+*.log
+
+# 🔹 Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# 🔹 CSV / Data files (since you're generating datasets)
+*.csv
+
+# OR if you only want to ignore output folder
+# rfam_output/
+
+# 🔹 Domo / API secrets (if any config file)
+config.json
+secrets.json
+
+# 🔹 Temporary files
+*.tmp
+*.bak
+
+# 🔹 VS Code / IDE settings
+.vscode/
+.idea/
+
+# 🔹 Pandas exports or intermediate files
+*.xlsx
+*.json
