@@ -36,6 +36,6 @@ Thumbs.db
 
 # 🔹 Pandas exports or intermediate files
 *.xlsx
-*.json
+
 config/env.py
 rfam_output
