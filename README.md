@@ -63,6 +63,13 @@ Note: During dataset updates, the existing data is fully replaced by default.
    
     - Existing dataset data is fully replaced
 
+4. Public Test Database
+
+This project uses a public MySQL database for testing purposes.
+
+Documentation Link:  [https://docs.rfam.org/en/latest/database.html]
+
+
    
 **Incremental Updates (Optional)**
 
