@@ -25,9 +25,6 @@ Thumbs.db
 # OR if you only want to ignore output folder
 # rfam_output/
 
-# 🔹 Domo / API secrets (if any config file)
-config.json
-secrets.json
 
 # 🔹 Temporary files
 *.tmp
